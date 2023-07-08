@@ -24,10 +24,10 @@ This function generates a destructive flavour text by selecting a verb from the 
 # Examples
 Here are some examples of the generated flavour texts:
 
-Aligning your mom
-Deallocating hot tub
-Constructing the funk
-Dissolving the impostor
+- Aligning your mom
+- Deallocating hot tub
+- Constructing the funk
+- Dissolving the impostor
 
 # Try it
 Check out my <a href="https://codepen.io/Staples1010/pen/MWEMpGK">CodePen</a> to see the generator in action.
