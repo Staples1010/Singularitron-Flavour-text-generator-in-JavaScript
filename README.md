@@ -1,0 +1,1 @@
+# Singularitron-Flavour-text-generator-in-JavaScript
