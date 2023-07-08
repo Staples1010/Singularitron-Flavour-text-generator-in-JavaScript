@@ -1,4 +1,4 @@
-# Singularitron-Flavour-text-generator-in-JavaScript
+# Singularitron Flavour text generator in JavaScript
 
 This project showcases a flavour text generator that can be used to display random combinations of verbs and nouns. This idea was first seen on <a href="https://www.youtube.com/ZackFreedman">Zack Freedman's</a> "<a href="https://www.youtube.com/watch?v=sxfJOMjZeIs&t=3s">Singularitron</a>" and was made to show useless loading text while useful stuff happens in the background. <a href="https://github.com/ZackFreedman/Singularitron/blob/master/SingularitronFirmware/flavortext.h">Check out Zack's code!</a>
 
