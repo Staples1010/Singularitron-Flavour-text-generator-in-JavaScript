@@ -29,6 +29,9 @@ Deallocating hot tub
 Constructing the funk
 Dissolving the impostor
 
+# Try it
+Check out my <a href="https://codepen.io/Staples1010/pen/MWEMpGK">CodePen</a> to see the generator in action.
+
 Feel free to use these functions in your projects to add some fun and random flavour text!
 
-Note: The original code is the work of Zack Freedman, with modifications made for this particular use-case.
+Note: The original code is the work of Zack Freedman, with modifications made for this particular use case.
